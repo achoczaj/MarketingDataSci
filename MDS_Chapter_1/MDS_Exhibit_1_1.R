@@ -25,7 +25,7 @@
 # |part-worth| <= 40 can be plotted directly on the spine chart
 # |part-worths| > 40 can be accommodated through standardization
 
-setwd("MDS_Chapter_1")
+setwd("../MDS_Chapter_1")
 
 load(file="mtpa_spine_chart.Rdata")
 
